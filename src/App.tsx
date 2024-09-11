@@ -18,7 +18,7 @@ function App() {
         </div>
         <ul>
           <li>Republic of Korea</li>
-          <li>Seoul National University</li>
+          <li>Seoul National University (Undergraduate Student)</li>
           <li>College of Natural Sciences</li>
           <li>Department of Mathematical Sciences</li>
         </ul>
