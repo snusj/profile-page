@@ -609,7 +609,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:18.3.5":
+"@types/react@npm:*, @types/react@npm:^18.3.5":
   version: 18.3.5
   resolution: "@types/react@npm:18.3.5"
   dependencies:
@@ -3255,7 +3255,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "seminar-2024-frontend-template@workspace:."
   dependencies:
-    "@types/react": "npm:18.3.5"
+    "@types/react": "npm:^18.3.5"
     "@types/react-dom": "npm:18.3.0"
     "@vitejs/plugin-react-swc": "npm:3.7.0"
     "@woohm402/eslint-config-react": "npm:0.6.0"
